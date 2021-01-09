@@ -1,5 +1,4 @@
-// https://www.spoj.com/problems/MARYBMW/
-// https://ideone.com/DXvfdq
+// https://www.spoj.com/problems/TOPOSORT/
 
 #include <bits/stdc++.h>
 #define MAX 50001
