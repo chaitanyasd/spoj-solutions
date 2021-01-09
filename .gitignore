@@ -1,0 +1,10 @@
+# Ignore builds
+/*.exe
+*.exe
+
+# Ignore vscode settings
+*/.vscode/*
+.vscode/*
+
+# Ignore all local history of files
+**/.history
